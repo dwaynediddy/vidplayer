@@ -7,4 +7,7 @@ using video.js i was only able to load a video that was downloaded my attempts t
 adding the html embed from instagram directly worked although the original embedded code was widdled down to the least amount of code i could get it to while still working, 
 unfortunatly all instgram features remained.
 
-npm install - possibly neded to run locally
+npm install - possibly neded to run locally if using video.js files
+
+instagram video viewer is demonstrated at 
+https://instagramembedvideo.netlify.app/
